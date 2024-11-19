@@ -2,6 +2,14 @@
 live page https://mtapirina.github.io/flappy_bird_clone/
 
 A Simple Flappy Bird Game clone made in HTML5 using Phaser Game Engine.
+My goal was: 
+1. Repeating the mechanics of the game.
+2. Control the flight of the Bird: click on the game window or press the Space key on the keyboard.
+3. Creating a menu with multiple choices and the ability to completely remove the game window from the page. The "Exit" button in the Game Menu.
+4. Saving the best game result. Showing the best score on the game page, and on a separate page.
+5. Pause in the game: create a button that temporarily stops the game and changes self appearance (image), from "pause" to "restart".
+6. Increasing difficulty as you progress through the game: The game starts on the "easy" difficulty mode. If the score is 10, the game goes into "normal" mode. After the score reaches 20, the game goes into "hard" mode. The difficulty is expressed in the closer distance between the pipes and the narrower window between the upper and lower pipes.
+   
 ## Inputs:
 Mause click or SPASE keyboard button 
 
